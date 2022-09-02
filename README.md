@@ -2,8 +2,11 @@
 
 ## Important - Change of Owner
 > D365-PowerKanban is now ORBIS PowerKanban!
+
+## Contact
 > If you are interested in this solution, get in touch with christopher.strauss[at]orbis.de via email.
 
+## General
 This is a custom PCF control for displaying a Kanban inside D365 datasets.
 
 > Entity Metadata, PowerKanban configs, views and card forms are cached for the lifetime of your browser session. This greatly improves performance.
