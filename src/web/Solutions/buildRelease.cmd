@@ -1,0 +1,1 @@
+msbuild /restore /p:configuration=Release

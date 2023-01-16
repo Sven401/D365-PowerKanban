@@ -1,0 +1,14 @@
+{
+    "entityName": "incident",
+    "defaultViewId": "",
+    "showCreateButton": true,
+    "swimLaneSource": "statuscode",
+    "allowTransitions": true,
+    "showDeleteButton": true,
+    "showDeactivateButton": true,
+    "secondaryEntity": {
+             "logicalName": "task",
+             "parentLookup": "regardingobjectid",
+             "swimLaneSource": "statuscode"
+    }
+}

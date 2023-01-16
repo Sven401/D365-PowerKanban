@@ -1,8 +1,4 @@
-# ORBIS PowerKanban
-
-## Important - Change of Owner
-> D365-PowerKanban is now ORBIS PowerKanban!
-> If you are interested in this solution, get in touch with christopher.strauss[at]orbis.de via email.
+# D365 Power Kanban
 
 This is a custom PCF control for displaying a Kanban inside D365 datasets.
 
